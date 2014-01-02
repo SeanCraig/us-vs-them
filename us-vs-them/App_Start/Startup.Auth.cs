@@ -28,9 +28,9 @@ namespace us_vs_them
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1437404443156610",
+               appSecret: "f2807cc4d809292b2cfc1376877152bd");
 
             //app.UseGoogleAuthentication();
         }
